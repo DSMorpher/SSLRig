@@ -1,0 +1,16 @@
+C:\Users\umer_javaid\Desktop\RIG 2015-02-24\SSLRig\RigUI\obj\x86\Debug\RigUI.csprojResolveAssemblyReference.cache
+C:\Users\umer_javaid\Desktop\RIG 2015-02-24\SSLRig\RigUI\obj\x86\Debug\SSLRig.RigUI.Dialog.DlgDataRepositorySettings.resources
+C:\Users\umer_javaid\Desktop\RIG 2015-02-24\SSLRig\RigUI\obj\x86\Debug\SSLRig.RigUI.Dialog.DlgSSLRefereeSettings.resources
+C:\Users\umer_javaid\Desktop\RIG 2015-02-24\SSLRig\RigUI\obj\x86\Debug\SSLRig.RigUI.Dialog.DlgSSLVisionSettings.resources
+C:\Users\umer_javaid\Desktop\RIG 2015-02-24\SSLRig\RigUI\obj\x86\Debug\SSLRig.RigUI.Properties.Resources.resources
+C:\Users\umer_javaid\Desktop\RIG 2015-02-24\SSLRig\RigUI\obj\x86\Debug\RigUI.RigUI.resources
+C:\Users\umer_javaid\Desktop\RIG 2015-02-24\SSLRig\RigUI\obj\x86\Debug\RigUI.csproj.GenerateResource.Cache
+C:\Users\umer_javaid\Desktop\RIG 2015-02-24\SSLRig\RigUI\obj\x86\Debug\RigUI.pdb
+C:\Users\umer_javaid\Desktop\RIG 2015-02-24\SSLRig\RigUI\bin\Debug\RigUI.exe.config
+C:\Users\umer_javaid\Desktop\RIG 2015-02-24\SSLRig\RigUI\bin\Debug\RigUI.exe
+C:\Users\umer_javaid\Desktop\RIG 2015-02-24\SSLRig\RigUI\bin\Debug\RigUI.pdb
+C:\Users\umer_javaid\Desktop\RIG 2015-02-24\SSLRig\RigUI\bin\Debug\Core.dll
+C:\Users\umer_javaid\Desktop\RIG 2015-02-24\SSLRig\RigUI\bin\Debug\Google.ProtocolBuffers.dll
+C:\Users\umer_javaid\Desktop\RIG 2015-02-24\SSLRig\RigUI\bin\Debug\SlimDX.dll
+C:\Users\umer_javaid\Desktop\RIG 2015-02-24\SSLRig\RigUI\bin\Debug\Core.pdb
+C:\Users\umer_javaid\Desktop\RIG 2015-02-24\SSLRig\RigUI\obj\x86\Debug\RigUI.exe
